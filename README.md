@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omar</h1>
 <h3 align="center"> Passionate MERN Stack developer  </h3>
 
-- 🔭 currently working as a MERN Developer Freelance Company**
+- 🔭 currently working as a Mid-Level Back End Developer**
 
-- 💬 Ask me about **React , Node.js , MonogoDB,Next JS , Postgres**
+- 💬 Ask me about **React , Nest.js, TypeScript , Node.js , MonogoDB,Next JS , Postgres**
 
 - 📫 How to reach me **omar.mmohhammedd@gmail.com**
 
