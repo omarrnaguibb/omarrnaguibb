@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently working as a **Mid-Level Back End Developer @ AutoDrop**, building scalable e-commerce automation and dropshipping platforms
-- 🛠️ 3+ years of experience architecting complex **third-party integrations** (Salla, Zid, Onruf) and **high-security real-time systems**
+- 🔭 Currently working as a **Senior Back End Developer @ AutoDrop**, building scalable e-commerce automation and dropshipping platforms
+- 🛠️ 5+ years of experience architecting complex **third-party integrations** (Salla, Zid, Onruf) and **high-security real-time systems**
 - 🤖 Recently integrated **Google Gemini AI** into production workflows for automated content generation and order intelligence
 - 💬 Ask me about **Node.js, NestJS, TypeScript, React.js, Next.js, MongoDB, PostgreSQL**
 - 📫 Reach me at **omar.mmohhammedd@gmail.com**
@@ -91,7 +91,7 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 <a href="mailto:omar.mmohhammedd@gmail.com">
-  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)" alt="Gmail" height="30" width="40" />
+  <img align="center" src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/1280px-Gmail_icon_%282020%29.svg.png?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail)" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
