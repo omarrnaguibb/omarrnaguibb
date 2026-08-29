@@ -91,10 +91,10 @@
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
 <a href="mailto:omar.mmohhammedd@gmail.com">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40" />
+  <img align="center" src="[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg](https://img.icons8.com/?size=100&id=qyRpAggnV0zH&format=png&color=000000)" alt="Gmail" height="30" width="40" />
 </a>
 </p>
 
 <p align="left">
-📍 Banha, Egypt &nbsp;|&nbsp; 💼 Open to new opportunities
+📍 Cairo, Egypt &nbsp;|&nbsp; 💼 Open to new opportunities
 </p>
