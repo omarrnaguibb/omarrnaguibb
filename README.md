@@ -34,14 +34,12 @@ I'm drawn to the parts of a platform that have to be reliable: third-party marke
 
 ### 🚀 Selected Work
 
-- **[AutoDrop](https://portfollio-omar.vercel.app/)**: Multi-tenant dropshipping and marketplace automation platform (Node.js · TypeScript · NestJS · MongoDB · Redis · BullMQ). Product sync, order orchestration that splits mixed carts and routes lines to suppliers, subscription billing, settlements, and real-time merchant updates.
+- **AutoDrop**: Multi-tenant dropshipping and marketplace automation platform (Node.js · TypeScript · NestJS · MongoDB · Redis · BullMQ). Product sync, order orchestration that splits mixed carts and routes lines to suppliers, subscription billing, settlements, and real-time merchant updates.
 - **Drop Card**: Digital dropshipping platform that unifies digital and service products in one merchant dashboard, with a multilingual AI content pipeline and automated wallet and settlement reconciliation.
 - **B-Care**: Insurance comparison platform for a licensed Saudi brokerage, with real-time quote comparison and instant policy issuance.
 - **TICKETS.EG**: Backend APIs and provider integrations for Egypt's flight search aggregator, with real-time fares from 1,200+ airlines and travel providers, price alerts, and search performance tuning.
 - **Egypt Laptop**: REST APIs for the storefront and checkout flow, plus an admin dashboard for store operations.
 - **Family Foods**: Backend for a cross-platform (Flutter + web) food ordering app with Fawry, Tab and Paymob payments, and a real-time order tracking admin platform.
-
-📄 More details and live previews on my **[portfolio site](https://portfollio-omar.vercel.app/)**.
 
 ---
 
